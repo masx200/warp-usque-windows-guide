@@ -1,0 +1,1 @@
+.\usque.exe register -a
