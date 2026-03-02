@@ -111,15 +111,15 @@ choco install nssm
 
 ```json
 {
-    "private_key": "ECDSA P-256 私钥",
-    "endpoint_v4": "162.159.199.2",
-    "endpoint_v6": "2606:4700:103::",
-    "endpoint_pub_key": "服务器公钥",
-    "license": "账户许可证",
-    "id": "设备 UUID",
-    "access_token": "访问令牌",
-    "ipv4": "172.16.0.2",
-    "ipv6": "2606:xxxx:xxxx"
+  "private_key": "ECDSA P-256 私钥",
+  "endpoint_v4": "162.159.199.2",
+  "endpoint_v6": "2606:4700:103::",
+  "endpoint_pub_key": "服务器公钥",
+  "license": "账户许可证",
+  "id": "设备 UUID",
+  "access_token": "访问令牌",
+  "ipv4": "172.16.0.2",
+  "ipv6": "2606:xxxx:xxxx"
 }
 ```
 
@@ -471,11 +471,11 @@ logs/
 
 ```json
 {
-    "LastCheck": "2026-02-28T14:30:00.0000000+08:00",
-    "IP": "172.16.0.2",
-    "Country": "United States",
-    "ISP": "Cloudflare Inc.",
-    "Status": "Connected"
+  "LastCheck": "2026-02-28T14:30:00.0000000+08:00",
+  "IP": "172.16.0.2",
+  "Country": "United States",
+  "ISP": "Cloudflare Inc.",
+  "Status": "Connected"
 }
 ```
 
