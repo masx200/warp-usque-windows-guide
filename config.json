@@ -1,7 +1,7 @@
 {
   "private_key": "MHcCAQEEIMTyDa+OlhV2hgp+d5miIwUPGHIsvx8AoblYc9UHDjSCoAoGCCqGSM49AwEHoUQDQgAE0BuVJ3WUQZ+YiTM83OPzEQLyuFEay3byY6y5ryQzBzwquZv/CK7mFBCAjjvn8vSgZW9K0V5zMSjODXYiLR9r6w==",
   "endpoint_v4": "162.159.199.2",
-  "endpoint_v6": "2a02:898:146:64::162.159.199.2",
+  "endpoint_v6": "2602:fc59:b0:64::a29f:c702",
   "endpoint_pub_key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIaU7MToJm9NKp8YfGxR6r+/h4mcG\n7SxI8tsW8OR1A5tv/zCzVbCRRh2t87/kxnP6lAy0lkr7qYwu+ox+k3dr6w==\n-----END PUBLIC KEY-----\n",
   "license": "d19a02mu-WD2q16o4-405Bvl7J",
   "id": "2e79707a-1312-4d04-88dc-6e32e2eb79e8",
