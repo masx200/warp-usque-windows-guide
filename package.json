@@ -4,7 +4,6 @@
   "description": "🥚➡️🍏🍎",
   "main": "update-endpoint.js",
   "scripts": {
-
     "update-endpoint": "node update-endpoint.js"
   },
   "repository": {
