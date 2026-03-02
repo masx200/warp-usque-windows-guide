@@ -748,9 +748,9 @@ But anyway, I found that the app used too much memory and that wasn't even the
 worst part.
 
 I figured this while casually sitting on a train, browsing the interwebz with
-Warp on. Once in a while it would crash and disconnect the entire VPN profile
-leaving my traffic exposed to the local WiFi. That was quite unpleasant and the
-final straw that made me start this project.
+Warp on. Once in a while it would crash and disconnect the entire (虛抳專鼡蛧絡)
+profile leaving my traffic exposed to the local WiFi. That was quite unpleasant
+and the final straw that made me start this project.
 
 While it doesn't exactly solve the reconnect issue yet either, it is planned.
 And with the leap forward to open-sourcing this, I hope that the community can

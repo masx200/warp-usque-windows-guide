@@ -5,7 +5,7 @@
 
 ## 前言
 
-Cloudflare WARP 是一款优秀的 VPN
+Cloudflare WARP 是一款优秀的 (虛抳專鼡蛧絡)
 服务，但官方客户端在某些场景下并不够灵活。`usque` 是一个开源的 WARP MASQUE
 协议重实现，提供了多种工作模式，包括 SOCKS5 代理、HTTP 代理和原生隧道模式。
 
@@ -49,7 +49,7 @@ Cloudflare WARP 是一款优秀的 VPN
 | 资源占用   | 高 (Android 260MB+)        | 低 (Go 二进制)  |
 | 自定义能力 | 受限                       | 完全可控        |
 | 服务端运行 | 困难                       | 支持            |
-| 代理模式   | 仅 VPN                     | SOCKS5/HTTP/TUN |
+| 代理模式   | 仅 (虛抳專鼡蛧絡)          | SOCKS5/HTTP/TUN |
 
 ---
 
@@ -111,15 +111,15 @@ choco install nssm
 
 ```json
 {
-  "private_key": "ECDSA P-256 私钥",
-  "endpoint_v4": "162.159.199.2",
-  "endpoint_v6": "2606:4700:103::",
-  "endpoint_pub_key": "服务器公钥",
-  "license": "账户许可证",
-  "id": "设备 UUID",
-  "access_token": "访问令牌",
-  "ipv4": "172.16.0.2",
-  "ipv6": "2606:xxxx:xxxx"
+    "private_key": "ECDSA P-256 私钥",
+    "endpoint_v4": "162.159.199.2",
+    "endpoint_v6": "2606:4700:103::",
+    "endpoint_pub_key": "服务器公钥",
+    "license": "账户许可证",
+    "id": "设备 UUID",
+    "access_token": "访问令牌",
+    "ipv4": "172.16.0.2",
+    "ipv6": "2606:xxxx:xxxx"
 }
 ```
 
@@ -471,11 +471,11 @@ logs/
 
 ```json
 {
-  "LastCheck": "2026-02-28T14:30:00.0000000+08:00",
-  "IP": "172.16.0.2",
-  "Country": "United States",
-  "ISP": "Cloudflare Inc.",
-  "Status": "Connected"
+    "LastCheck": "2026-02-28T14:30:00.0000000+08:00",
+    "IP": "172.16.0.2",
+    "Country": "United States",
+    "ISP": "Cloudflare Inc.",
+    "Status": "Connected"
 }
 ```
 
