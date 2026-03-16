@@ -1,1 +1,1 @@
-./usque socks -b 0.0.0.0 -d 1.1.1.1 -d 8.8.8.8 -d 9.9.9.9 -p 1080 -s www.cloudflare-gateway.com --username biiacuuruavimks9d4cn --password biiacuuruavimks9d4cn -d 94.140.14.14
+./usque socks -b 0.0.0.0 -d 1.1.1.1 -d 8.8.8.8 -d 9.9.9.9 -p 1080 -s www.cloudflare-gateway.com --username biiacuuruavimks9d4cn --password biiacuuruavimks9d4cn -d 94.140.14.14 --connect-port 8095
